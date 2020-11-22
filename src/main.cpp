@@ -10,11 +10,9 @@
 #include <glm/vec4.hpp>
 #include <glm/mat4x4.hpp>
 
-#define SPDLOG_COMPILED_LIB
 #include "spdlog/spdlog.h"
 #include "spdlog/sinks/stdout_color_sinks.h"
 
-#include <iostream>
 #include <stdexcept>
 #include <functional>
 #include <cstdlib>
