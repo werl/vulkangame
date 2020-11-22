@@ -1,0 +1,9 @@
+[submodule "cust_include/glfw"]
+	path = cust_include/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "cust_include/glm"]
+	path = cust_include/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "cust_include/spdlog"]
+	path = cust_include/spdlog
+	url = https://github.com/gabime/spdlog.git
