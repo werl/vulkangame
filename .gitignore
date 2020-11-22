@@ -35,3 +35,6 @@
 
 # Cmake folders
 cmake-build*
+
+# Idea stuff
+.idea
